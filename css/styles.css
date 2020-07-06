@@ -24,6 +24,10 @@ h6 {
 }
 
 /* NAV-BAR */
+nav{
+
+  border-bottom: 0.1rem var(--core-value-container-color) solid;
+}
 nav .navbar {
   z-index: 1;
 }
@@ -246,7 +250,7 @@ a.volunteer-btn:hover {
 
 @media (max-width: 767px) {
   h1.volunteer-heading {
-    font-size: 2.99rem;
+    font-size: 2.89rem;
    
     
   }
@@ -537,7 +541,7 @@ a.volunteer-btn1:hover {
 /* MEDIA QUERY */
 @media (max-width: 767px) {
   h1.volunteer-heading1 {
-    font-size: 2.99rem;
+    font-size: 2.89rem;
   }
 }
 
